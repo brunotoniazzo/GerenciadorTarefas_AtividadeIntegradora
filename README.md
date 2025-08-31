@@ -1,5 +1,5 @@
-# Bruno Vinícius Toniazzo
-#  API de Gerenciamento de Tarefas 📝
+# API de Gerenciamento de Tarefas 📝
+*Autor: **Bruno Toniazzo***
 
 Projeto da Atividade Integradora da cadeira de Serviços para Web 08/2025.
 Desenvolvido a partir do uso de Java 17 e Spring Boot na IDE IntelliJ.
